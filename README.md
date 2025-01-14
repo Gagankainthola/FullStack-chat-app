@@ -23,3 +23,5 @@ npm run build
 ```shell
 npm start
 ```
+### Live Demo
+[View the app here](https://fullstack-chat-app-gjex.onrender.com)
